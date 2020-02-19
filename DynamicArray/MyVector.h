@@ -1,9 +1,4 @@
 /*
-David Nguyen
-Data Structure
-Homework #1
-2/5/2019
-
 	In this program we are writing a class that is called MyVector. The class will have the specified private and 
 public members. The class will have use a partially filled array to store a collection of integers. The array will
 be using dynamic memory allocation. 

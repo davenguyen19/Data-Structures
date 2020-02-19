@@ -1,10 +1,3 @@
-/*
-David Nguyen
-Professor Chris Smith
-CS2370
-Program 1 Static Class Member
-04/05/2018
-*/
 
 /*
 In this program we are creating a car class. The car class has a static member fucntion that 

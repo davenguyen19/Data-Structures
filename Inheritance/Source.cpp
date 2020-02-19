@@ -1,10 +1,3 @@
-/*
-David Nguyen
-Professor Chris Smith
-Program 2 Inheritance
-CS2370
-04/11/2018
-*/
 
 /*
 In this program we are using the class Employee as a inheritance class to the supervisor class

@@ -1,10 +1,3 @@
-/*
-David Nguyen
-Professor Leann Christianson
-CS2360
-Program 4
-2/6/2018
-*/
 
 /*
 In this program we are readinmg a .txt file that has the number of students that took a 

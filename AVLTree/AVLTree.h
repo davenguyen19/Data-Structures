@@ -1,11 +1,3 @@
-/*
-David Nguyen
-Professor Hank Stalica
-Data Structures and Algorithm
-Homework #5 AVL Trees
-4/23/2019
-*/
-
 
 #ifndef AVLTREE_H
 #define AVLTREE_H

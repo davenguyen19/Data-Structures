@@ -3,15 +3,6 @@
 #define HEAPQUEUE_H
 
 
-/*
-David Nguyen 
-Professor Hank Stalica
-Data Structures and Algorithm
-Homework #6 Heaps
-May 1st, 2019
-*/
-
-
 using namespace std;
 
 class HeapQueue {

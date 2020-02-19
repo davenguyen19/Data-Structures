@@ -1,9 +1,3 @@
-/*
-David Nguyen
-Professor Hank Stalica
-Lab 4 - Data Structures
-February 14th, 2019
-*/
 
 #include <iostream>
 

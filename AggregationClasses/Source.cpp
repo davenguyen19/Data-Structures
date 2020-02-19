@@ -1,9 +1,3 @@
-/*
-David Nguyen
-Professor Leann Christianson
-Program 6 Aggregation
-3/1/2018
-*/
 
 
 /*

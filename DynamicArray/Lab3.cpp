@@ -1,10 +1,3 @@
-/*
-David Nguyen
-Data Structures and Algorithm
-Hank Stalica
-Lab 3
-2/7/2019
-*/
 
 #include <iostream>
 
